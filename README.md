@@ -57,4 +57,4 @@ Dans le fichier `Apex_Central-1685537311706.json` contient la configuration du d
 
 Voici à quoi ressemble le dashboard :
 
-![ApexCentralDashboard]([https://edu-git.ac-versailles.fr/dharal1/apex/-/blob/main/png/dashboard_apex_central.png](https://github.com/Dyl-LAN741/apex/blob/main/png/dashboard_apex_central.png))
+![ApexCentralDashboard](https://github.com/Dyl-LAN741/apex/edit/main/png/dashboard_apex_central.png)
